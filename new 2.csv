@@ -1,4 +1,4 @@
-Rk,Player,Age,Team,Pos,GP,G,A,PTS,SOG▼,-9999
+Rk,Player,Age,Team,Pos,GP,G,A,PTS,SOG,-9999
 1,Nathan MacKinnon,29,COL,C,79,32,84,116,320,mackina01
 2,David Pastrňák,28,BOS,RW,82,43,63,106,319,pastrda01
 3,Zach Werenski,27,CBJ,D,81,23,59,82,298,werenza01
@@ -1022,4 +1022,5 @@ Rk,Player,Age,Team,Pos,GP,G,A,PTS,SOG▼,-9999
 1021,Scott Wedgewood,32,2TM,G,24,0,0,0,0,wedgesc01
 1022,Jack Williams,,CBJ,F,1,0,0,0,0,willija02
 1023,Joseph Woll,26,TOR,G,42,0,0,0,0,wolljo01
+
 
